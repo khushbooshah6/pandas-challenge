@@ -1,0 +1,47 @@
+                                       Important Trends in HeroesofPymoli
+1.Gender Male vs Female
+	    Total Count	Percentage of Players
+Male	484	        84.03%
+Female	81	        14.06%
+Other 	11	        1.91%
+
+
+Purchase Count	Average Purchase Price	Total Purchase Value	Avg Total Purchase Per Person
+Gender				
+Female	 113	    3.203009	            361.94	                4.468395
+Male	 652	    3.017853	            1967.64	                4.065372
+Other    15	        3.346000	            50.19	                4.562727
+
+There is a clear trend when we look at data based on Gender. The Male population dominates the Heroes of Pymoli gaming with 84.03% and their corresponding spendings reflecting the same with being 82.69% of Total Revenue (($1967.64/$2379.77)*100)
+
+
+
+2.Age Groups
+	Total Count	Percentage of Players
+  <10	17	2.95%
+10-14	22	3.82%
+15-19	107	18.58%
+20-24	258	44.79%
+25-29	77	13.37%
+30-34	52	9.03%
+35-39	31	5.38%
+40+  	12	2.08%
+
+When sorting the Players based on their Ages there is a very high concentration in the Age group 20-24 with a whopping 44.79% of players belonging to this Age group. The next highest being that of the Age group 15-19 at 18.58%, followed by the age group 25.29 with 13.37%. The aggregate of these 3 groups accounting for more than 75% of the players while the rest of the 5 groups accounting for less than 25%. Their spendings also corresponding to their count with almost 75% (($1819.95/2379.77)*100)
+
+
+
+3. Most Profitable Items
+		                                            P.Count	Item Price	Total Purchase Value
+Item ID	Item Name			
+178	Oathbreaker, Last Hope of the Breaking Storm	12	$4.23	$50.76
+82	Nirvana	                                        9	$4.90	$44.10
+145	Fiery Glass Crusader	                        9	$4.58	$41.22
+92	Final Critic	                                8	$4.88	$39.04
+103	Singed Scalpel	                                8	$4.35	$34.80
+There are some items which see more frequent purchases compared to the other items inspite most of their Item Prices being in the high range amongst all of the items. This would suggest high demand for those items and therefore low elasticity of price for the profitable items.
+
+
+
+
+
